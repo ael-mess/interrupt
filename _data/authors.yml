@@ -92,3 +92,8 @@ amundas:
     linkedin: https://www.linkedin.com/in/amund-askeland-9a2545149/
     blurb: is a hardware and software enthusiast currently working on a PhD in embedded security.
     image: /img/author/amund.png
+erikfogg:
+    name: Erik Fogg
+    blurb: is the Chief Operating Officer at <a href="https://prodperfect.com/">nProdPerfect.</a>, which is an autonomous E2E regression testing solution that leverages data from live user behavior data.
+    linkedin: https://www.linkedin.com/in/erikfogg/
+    image: /img/author/erikfogg.jpeg
